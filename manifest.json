@@ -1,0 +1,23 @@
+{
+    "name": "Roua Magdi | Mobile Developer",
+    "short_name": "Roua Magdi | Mobile Developer",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Roua is a Professional Mobile Application Developer with 5+ years of experience in Computer Science. Specialised in developing Flutter applications with more than 30+ apps published. Working as a key player in challenging and creative environments.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
